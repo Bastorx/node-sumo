@@ -69,6 +69,10 @@ Turn the drone right at the specified speed (between 0 and 100).
 
 Turn and move. To go forward use positive value, negative to backward, positive to go right, negative to go left.
 
+#### angle(degree)
+
+Turn with degree value. Negative to go left, positive = right.
+
 #### stop()
 
 Tell the drone to stop moving.
